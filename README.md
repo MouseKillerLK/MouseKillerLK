@@ -1,4 +1,4 @@
-# **Self-introduction  自我介绍**
+# **Self-introduction  自我介绍  Представьтесь**
 [Testing Website](127.0.0.1)
 ***
 <!---### Primary --->
@@ -14,3 +14,4 @@ You can click the Preview link to take a look at your changes.
 --->
  - Studying with Mr.Mouse and Mr.Sparrow
  - 和「老鼠」「麻雀」一起学习
+ - Учитесь вместе с мистером Маусом и мистером Воробьем
