@@ -1,4 +1,4 @@
-<p align="center">**Self-introduction  自我介绍  Представьтесь**</p>
+**<p align="center">Self-introduction  自我介绍  Представьтесь</p>**
 [「访问LC一中论坛」](https://github.com/MouseKillerLK/LCYZSBBS)
 ***
 - <span class="heimu" title="你知道的太多了">
