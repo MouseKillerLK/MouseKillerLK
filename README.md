@@ -1,7 +1,7 @@
 # **Self-introduction  自我介绍  Представьтесь**
 [「访问LC一中论坛」](https://github.com/MouseKillerLK/LCYZSBBS)
 ***
-<span class="heimu" title="你知道的太多了">
+- <span class="heimu" title="你知道的太多了">
 <!---### Primary --->
 - 👋 Hi, I’m @MouseKillerLK,a senior high student.
 - 👀 I’m interested in ...
