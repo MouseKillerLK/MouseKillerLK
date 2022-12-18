@@ -15,6 +15,7 @@ You can click the Preview link to take a look at your changes.
 ***
 - I'm MouseKiller,a senior high student in Caoxian County.
 - 我是MouseKiller，一个生活在段东侧县的高中学生
+- Я MouseKiller, ученик средней школы, живущий в округе Дуань-Ист
 ***
 - <span class="heimu" title="你知道的太多了">
 <!---### Primary --->
