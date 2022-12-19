@@ -19,8 +19,10 @@ You can click the Preview link to take a look at your changes.
 - 我是MouseKiller，一个生活在段东侧县的高中学生
 - Я MouseKiller, ученик средней школы, живущий в округе Дуань-Ист
 
-[![](https://github-readme-stats.vercel.app/api?username=MouseKillerLK&count_private=true&include_all_commits=true&show_icons=true)]()
+[![](https://github-readme-stats.vercel.app/api?username=MouseKillerLK&count_private=true&include_all_commits=true&show_icons=true)](127.0.0.1)
+<!---
 https://github.com/anuraghazra/github-readme-stats
+--->
 ***
 - <span class="heimu" title="你知道的太多了">
 <!---### Primary --->
