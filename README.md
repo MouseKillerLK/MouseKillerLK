@@ -21,6 +21,14 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">🐀🐁</p>
 
+**My contact addresses联系地址Мои контактные адреса**
+- Steam https://s.team/p/gdqw-vtft/gcbpnkpg
+- XBOX Futureboot72888
+- Discord MouseKillerLK#7385
+
+
+<p align="center">🐀🐁</p>
+
 
 [![](https://github-readme-stats.vercel.app/api?username=MouseKillerLK&count_private=true&include_all_commits=true&show_icons=true)](127.0.0.1)
 
