@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">Учитесь вместе с мистером Маусом и мистером Воробьем</p>
 <p align="center">🐀🐁</p>
 
-[「访问LC一中论坛」](https://github.com/MouseKillerLK/LCYZSBBS)
+[「访问老鼠洞」](https://mousekillerlk.github.io)
 
 <p align="center">🐀🐁</p>
 
