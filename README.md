@@ -40,9 +40,9 @@ You can click the Preview link to take a look at your changes.
 <!---
 https://github.com/anuraghazra/github-readme-stats
 
-
+<p align="center">
 ![](https://visitor-badge.glitch.me/badge?page_id=Mousekillerlk.readme)
-
+</p>
 
 ***
 - <span class="heimu" title="你知道的太多了">
