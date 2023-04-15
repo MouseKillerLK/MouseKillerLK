@@ -15,8 +15,6 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">🐀🐁</p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=Mousekillerlk.readme)
-
 - I'm MouseKiller,a senior high student in Caoxian County.
 - 我是MouseKiller，一个生活在曹县段东侧的高中学生。
 - Я MouseKiller, ученик средней школы, живущий в округе Дуань-Ист
