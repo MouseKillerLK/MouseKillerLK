@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">🐀🐁</p>
 
 **My contact addresses联系地址Мои контактные адреса**
-- Steam https://s.team/p/gdqw-vtft/gcbpnkpg
+- Steam 1119874365
 - XBOX Futureboot72888
 - Discord MouseKillerLK#7385
 - 
@@ -39,6 +39,10 @@ You can click the Preview link to take a look at your changes.
 
 <!---
 https://github.com/anuraghazra/github-readme-stats
+
+
+![](https://visitor-badge.glitch.me/badge?page_id=Mousekillerlk.readme)
+
 
 ***
 - <span class="heimu" title="你知道的太多了">
