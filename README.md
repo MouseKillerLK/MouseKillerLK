@@ -33,6 +33,8 @@ You can click the Preview link to take a look at your changes.
 [![](https://github-readme-stats.vercel.app/api?username=MouseKillerLK&count_private=true&include_all_commits=true&show_icons=true)](127.0.0.1)
 
 
+![](https://visitor-badge.glitch.me/badge?page_id=Mousekillerlk.readme)
+
 <p align="center">🐀🐁</p>
 
 <!---
