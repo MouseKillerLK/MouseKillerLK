@@ -22,9 +22,10 @@ You can click the Preview link to take a look at your changes.
 <p align="center">🐀🐁</p>
 
 **My contact addresses联系地址Мои контактные адреса**
-- Steam 1119874365
-- XBOX Futureboot72888
-- Discord MouseKillerLK#7385
+- Steam   | 1119874365
+- XBOX    | Futureboot72888
+- Discord |MouseKillerLK#7385
+- Github  |MouseKillerLK
 - 
 
 <p align="center">🐀🐁</p>
